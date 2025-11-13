@@ -1,0 +1,2 @@
+# text_copy-paste_with_transpose_in_excel
+text_copy&amp;paste_with_transpose_in_excel
